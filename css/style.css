@@ -1462,8 +1462,17 @@ select.form-control:not([size]):not([multiple]){
 background-color: rgb(85, 82, 82);
 }
 
+#mauvai{
+	font-style: italic;
+}
+#mauvai span{
+	font-size: 7px !important;
+}
 
-
+#mauvai p{
+	font-size: 21px !important;
+	text-decoration: underline;
+}
 
 
 
